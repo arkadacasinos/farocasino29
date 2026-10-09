@@ -15,6 +15,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <head>
+        <meta name="yandex-verification" content="d382177eaf674ad6" />
         <title>Фаро Казино — FARO Casino официальный сайт и рабочее зеркало, играть онлайн</title>
         <meta
           name="description"

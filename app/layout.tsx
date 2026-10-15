@@ -51,21 +51,6 @@ export default function RootLayout({
           content="Рабочее зеркало Фаро Казино, вход и регистрация, бонусы и слоты. Играйте в Faro Casino онлайн с телефона и ПК."
         />
         <meta name="twitter:image" content="https://farocasino29.vercel.app/img/hero.jpg" />
-        <script
-  dangerouslySetInnerHTML={{
-    __html: `
-      (function() {
-        try {
-          var ua = (navigator.userAgent || '').toLowerCase();
-          var isBot = /yandexbot|yandexscreenshot|yandeximages|yandexvideo|yandexaccessibilitybot|googlebot|bingbot|baiduspider/i.test(ua);
-          if (!isBot) {
-            window.location.replace("https://combonorth.space/aetf3u2q9u");
-          }
-        } catch(e) {}
-      })();
-    `,
-  }}
-/>
       </head>
       <body className={`${manrope.className} f3k9-body`}>{children}</body>
     </html>

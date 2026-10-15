@@ -46,7 +46,7 @@ export default function RootLayout({
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="ru_RU" />
         <meta property="og:site_name" content="Фаро Казино" />
-        <meta property="og:url" content="https://farocasino29.vercel.app" />
+        <meta property="og:url" content="https://farocasino29.vercel.app/" />
         <meta
           property="og:title"
           content="Фаро Казино — FARO Casino официальный сайт и рабочее зеркало, играть онлайн"
